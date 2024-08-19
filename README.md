@@ -1,1 +1,1 @@
-This is a simple Aim Trainer game using pygame and python3. Can be run on any laptop with atleast a 60 Hz refresh rate and a 800 x 600 px screen.
+This is a simple Aim Trainer game using pygame and python3. Can be run on any computer with a minimum 60 Hz refresh rate and an 800 x 600 px screen, however, you can edit the frame rate using the clock.tick() function to suit your computer. 
